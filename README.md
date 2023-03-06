@@ -9,3 +9,16 @@ When selecting an image...
 
 Design and other materials have been removed from the ui-material library 4, the component can be passed to MUI-5 easily
 
+npm needed - Material UI 4 - https://v4.mui.com/getting-started/installation/
+
+// with npm
+npm install @material-ui/core
+
+// with yarn
+yarn add @material-ui/core
+
+// with npm
+npm install @material-ui/icons
+
+// with yarn
+yarn add @material-ui/icons
