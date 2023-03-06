@@ -8,7 +8,7 @@ When selecting an image...
 ![image](https://user-images.githubusercontent.com/67884987/223152019-2abbc11a-bcf0-4ac9-b962-8f9ed18bf46e.png)
 
 Component view: 
-![image](https://user-images.githubusercontent.com/67884987/223153295-8540d81f-6532-4bc8-8eed-1895a00fca45.png)
+![image](https://user-images.githubusercontent.com/67884987/223153700-5efe5b67-94ef-465f-9968-65bb7d4d80a1.png)
 
 Nedeed -
 label
